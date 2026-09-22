@@ -1,0 +1,1 @@
+These linker files are made for the Tasking compiler which is used in this example code.
